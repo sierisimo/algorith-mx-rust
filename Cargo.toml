@@ -1,0 +1,6 @@
+[package]
+name = "algorith-mx"
+version = "0.1.0"
+authors = ["Sier Violencia <sierisimo@gmail.com>"]
+
+[dependencies]
